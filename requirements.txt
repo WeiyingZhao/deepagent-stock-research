@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+yfinance
+gradio
+pandas
+numpy
+requests
+python-dotenv
